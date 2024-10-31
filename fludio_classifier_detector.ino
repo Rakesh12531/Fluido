@@ -21,8 +21,8 @@ const float vibrationThreshold = 10.0;
 const float flowThreshold = 20.0;
 
 // WiFi credentials
-const char SSID[] = "Airtel_Sundar";
-const char PASS[] = "Rakesh531";
+const char SSID[] = "";
+const char PASS[] = "";
 
 // WiFi server settings
 WiFiServer server(80);
